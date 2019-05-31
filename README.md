@@ -1,4 +1,4 @@
-# IRS-MR-2019-01-19-IS1PT-GRP-ThroneTeam-IR2S
+# BOT-CS-2019-05-31-GRP15-ThroneTeam
 
 ## SECTION 1 : PROJECT TITLE
 ## NUS ISS Chatbot
@@ -25,30 +25,22 @@ It is the intelligence that gives power to the AI chatbot to learn from conversa
 | MOHANADAS GANGA SOOREJ | A0195397J | Question, Intent design | -NA- |
 | RITESH MUNJAL | A0195304H | Business Value Interview, Attribute worksheet design, Guided Rules Table design, Dependancy Diagram design, Project Report, Cloud deployment, Video | E0384935@u.nus.edu |
 | SANTHIYAPILLAI RAJEEVAN PAUL | A0195399E | Technical Design, Data definition, Project report, Debugging | E0385030@u.nus.edu |
-| YONG QUAN ZHI, TOMMY | A0195353Y | Web scrapping developement, Data preprocessing, Project submission, User Manual, Test Cases | E0384984@u.nus.edu |
+| YONG QUAN ZHI, TOMMY | A0195353Y | Web scrapping development, Data preprocessing, Project submission, User Manual, Test Cases | E0384984@u.nus.edu |
 
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[Intelligent Rental Recommendation System](https://youtu.be/GkLPGwiTZSM)
+[NUS ISS Chatbot]()
+
 
 ---
 
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/probablygary/IRS-MR-2019-01-19-IS1PT-GRP-ThroneTeam-IR2S/blob/master/UserGuide/UserManual-IR2S.pdf>
+`<Github File Link>` : <https://github.com/tommyyNUS/NUS_Chatbot_ThroneTeam/blob/master/UserGuide/UserManual_TestCases.pdf>
 
-Enter the following in your command prompt/terminal:
-- Windows: 
-    ```launch.bat clean install```
-- Linux/Unix: 
-    ```./launch.sh clean install```
-
-The projects will take some time to build for the first time as it will be downloading dependencies to your machine.
-If you encounter 'unable to access jarfile target' error, run the launch command one more time.
-
-Once the app has finished building and deployed, open up a web browser and enter localhost:8090. If the build was successful and the app was deployed successfully, you will be able to view the application in your web browser.
+Download the guide from the link above and follow the instructions to deploy the chatbot locally.
 
 ---
 
@@ -58,7 +50,5 @@ Once the app has finished building and deployed, open up a web browser and enter
 
 ## SECTION 7 : MISCELLANEOUS
 
-### App URL: [IR2S](http://52.221.199.219:8090)
-- the IR2S system hosted on AWS
-### [data.csv](https://github.com/probablygary/IRS-MR-2019-01-19-IS1PT-GRP-ThroneTeam-IR2S/blob/master/Miscellaneous/data.csv)
-- sample data for the system
+### App URL: [NUS ISS CHATBOT](isschatbot.ga)
+- the Chatbot system hosted on AWS lightsail...
