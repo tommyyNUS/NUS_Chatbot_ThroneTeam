@@ -46,7 +46,7 @@ Download the guide from the link above and follow the instructions to deploy the
 
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/probablygary/IRS-MR-2019-01-19-IS1PT-GRP-ThroneTeam-IR2S/blob/master/ProjectReport/Project%20Report%20-%20IR2S.pdf>
+`<Github File Link>` : <https://github.com/tommyyNUS/NUS_Chatbot_ThroneTeam/blob/master/ProjectReport/CS_Report.pdf>
 
 ## SECTION 7 : MISCELLANEOUS
 
