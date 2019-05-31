@@ -50,5 +50,5 @@ Download the guide from the link above and follow the instructions to deploy the
 
 ## SECTION 7 : MISCELLANEOUS
 
-### App URL: <isschatbot.ga>
+### App URL: [NUS ISS CHATBOT](http://isschatbot.ga)
 - the Chatbot system hosted on AWS lightsail...
